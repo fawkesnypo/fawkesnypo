@@ -1,6 +1,12 @@
 ### Olá 👋
 ### Eu me chamo Renan!
 
+Sou desenvolvedor!
+
+Linguagens de programação: Python, C#, Java, Delphi/Pascal
+Frameworks: Flask, Django
+Outros conhecimentos: HTML, CSS, Jira, Jenkins
+
 ##
 
 <div align="center">
@@ -13,9 +19,11 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"/>
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+   <img align="center" alt="Jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"/>
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
