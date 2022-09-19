@@ -4,7 +4,7 @@
 Sou desenvolvedor!
 
 Linguagens de programação: Python, C#, Java, Delphi/Pascal\
-Frameworks: Flask, Django\
+Frameworks: Flask, Django, Spring\
 Outros conhecimentos: HTML, CSS, Jira, Jenkins
 
 ##
