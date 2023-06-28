@@ -10,7 +10,7 @@ Outros conhecimentos: HTML, CSS, Jira, Jenkins
 ##
 
 <div align="center">
-  <a href="https://github.com/fawkesnypo">
+  <a href="https://github.com/rnn-fo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fawkesnypo&show_icons=true&custom_title=Renan%20Florencio%20de%20Oliveira&include_all_commits=true&count_private=true&locale=pt-br&hide_border=True&theme=chartreuse-dark&title_color=0083ff&bg_color=DEG,000000,00050a,010d1d,021229&icon_color=004e97&text_color=8baee1"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawkesnypo&layout=compact&langs_count=6&locale=pt-br&hide_border=True&theme=chartreuse-dark&title_color=0083ff&bg_color=DEG,021229,010d1d,00050a,000000&icon_color=004e97&text_color=8baee1&card_width=240"/>
 </div>
